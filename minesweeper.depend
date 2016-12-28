@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1482844045 source:d:\c\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"header.h"
+
+1482842273 d:\c\minesweeper\header.h
+	<time.h>
+
+1482943889 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"header.h"
+
+1482961769 d:\!st term\programming\dr.nagia ghanem\minesweeper\header.h
+	<time.h>
+
+1482842537 source:d:\c\minesweeper\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482943087 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482844339 source:d:\c\minesweeper\newgame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482838903 source:d:\c\minesweeper\dfs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482839606 source:d:\c\minesweeper\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482840123 source:d:\c\minesweeper\scoreboard.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482840731 source:d:\c\minesweeper\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482840774 source:d:\c\minesweeper\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482842273 source:d:\c\minesweeper\endgame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482844291 source:d:\c\minesweeper\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482943087 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\dfs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482961793 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\endgame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482966280 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482943087 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482943087 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482866530 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482943186 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\scoreboard.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
+1482966066 source:d:\!st term\programming\dr.nagia ghanem\minesweeper\newgame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	"header.h"
+
